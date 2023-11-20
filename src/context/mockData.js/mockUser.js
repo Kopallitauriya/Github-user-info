@@ -1,0 +1,38 @@
+export default {
+  login: "kopallitauriya",
+  id: 78869200,
+  node_id: "MDQ6VXNlcjc4ODY5MjAw",
+  avatar_url: "https://avatars.githubusercontent.com/u/110325444?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/kopallitauriya",
+  html_url: "https://github.com/kopallitauriya",
+  followers_url: "https://api.github.com/users/kopallitauriya/followers",
+  following_url:
+    "https://api.github.com/users/kopallitauriya/following{/other_user}",
+  gists_url: "https://api.github.com/users/kopallitauriya/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/kopallitauriya/starred{/owner}{/repo}",
+  subscriptions_url: "https://api.github.com/users/kopallitauriya/subscriptions",
+  organizations_url: "https://api.github.com/users/kopallitauriya/orgs",
+  repos_url: "https://api.github.com/users/kopallitauriya/repos",
+  events_url: "https://api.github.com/users/kopallitauriya/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/kopallitauriya/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Kopal Litauriya",
+  company: null,
+  blog: "",
+  location: null,
+  email: null,
+  hireable: null,
+  bio:
+    "Full time student in IIIT Jabalpur Madhya Pradesh , India .\r\nInterested in Development and CP .",
+  twitter_username: null,
+  public_repos: 7,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: "2021-02-10T16:41:12Z",
+  updated_at: "2021-04-10T16:55:41Z",
+};
